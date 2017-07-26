@@ -1,1 +1,1 @@
-#  syjsoft repository
+#  linux
