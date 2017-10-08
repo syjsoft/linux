@@ -1,1 +1,3 @@
 #  linux
+
+centos installation 
